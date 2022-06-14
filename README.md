@@ -17,4 +17,5 @@ https://github.com/rodit/SnapMod/releases/latest
 ### Spotify 
 Linux: https://github.com/abba23/spotify-adblock   
 Windows: https://github.com/mrpond/BlockTheSpot   
+Web: https://ublockorigin.com/   
 <sup><sub>Note: Spicetify with adblock is a good combo but Spicetify is a bit unstable</sub></sup>   
