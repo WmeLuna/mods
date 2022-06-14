@@ -10,7 +10,7 @@
     <script src="https://cdn.jsdelivr.net/npm/linkifyjs@3.0.5/dist/linkify.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/linkifyjs@3.0.5/dist/linkify-html.min.js"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
-    <script type="text/javascript">document.querySelector('.no-header').innerHTML = linkifyHtml(document.querySelector('.no-header').innerHTML)</script>
+    <script type="text/javascript">window.addEventListener('load', function () {document.querySelector('.no-header').innerHTML = linkifyHtml(document.querySelector('.no-header').innerHTML)})</script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
