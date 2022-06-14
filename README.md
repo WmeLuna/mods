@@ -1,7 +1,7 @@
 # Mods
 A List of high quality mods that i recommend/trust   
 
-## Andriod
+## Android
 Discord - Aliucord   
 https://github.com/Aliucord/Aliucord/releases/latest   
 Spotify - Xmanager   
