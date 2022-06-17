@@ -2,15 +2,15 @@
 A List of high quality mods that i recommend/trust   
 
 ## Android
-Discord - Aliucord   
+Discord - Aliucord - ![Aliucord Version](https://img.shields.io/github/v/tag/Aliucord/Aliucord?label=Latest&style=flat-square&color=bd93f9)   
 https://github.com/Aliucord/Aliucord/releases/latest   
-Spotify - Xmanager   
+Spotify - xManager - ![xManager Version](https://img.shields.io/github/v/tag/xManager-v2/xManager-Spotify?label=Latest&style=flat-square&color=bd93f9)   
 https://github.com/xManager-v2/xManager-Spotify/releases/latest   
 Youtube - Vanced (until ReVanced is released)   
 https://web.archive.org/web/20220304220206/https://vancedapp.com/   
 Instagram - Instander   
 https://thedise.me/instander/   
-Snapchat - SnapMod (root needed)   
+Snapchat - SnapMod (root needed) - ![SnapMod Version](https://img.shields.io/github/v/tag/rodit/SnapMod?label=Latest&style=flat-square&color=bd93f9)   
 https://github.com/rodit/SnapMod/releases/latest
 
 ## Desktop   
