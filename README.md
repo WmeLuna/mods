@@ -8,7 +8,7 @@ Spotify - xManager - ![xManager Version](https://img.shields.io/github/v/tag/xMa
 https://github.com/xManager-v2/xManager-Spotify/releases/latest   
 Youtube - Vanced (until ReVanced is released)   
 https://web.archive.org/web/20220304220206/https://vancedapp.com/   
-Instagram - Instander   
+Instagram - Instander - ![Instander Version (doesnt show on github js needed)]()   
 https://thedise.me/instander/   
 Snapchat - SnapMod (root needed) - ![SnapMod Version](https://img.shields.io/github/v/tag/rodit/SnapMod?label=Latest&style=flat-square&color=bd93f9)   
 https://github.com/rodit/SnapMod/releases/latest
