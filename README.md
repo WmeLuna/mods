@@ -11,7 +11,9 @@ https://web.archive.org/web/20220304220206/https://vancedapp.com/
 Instagram - Instander - ![Instander Version (only auto updates on site)](https://github.com/WmeLuna/mods/blob/main/_layouts/insta.png?raw=true)   
 https://thedise.me/instander/   
 Snapchat - SnapMod (root needed) - ![SnapMod Version](https://img.shields.io/github/v/tag/rodit/SnapMod?label=Latest&style=flat-square&color=bd93f9)   
-https://github.com/rodit/SnapMod/releases/latest
+https://github.com/rodit/SnapMod/releases/latest   
+Reddit - Redited (in early days) - ![Redited Version](https://img.shields.io/github/v/tag/Blatzar/Redited?label=Latest&style=flat-square&color=bd93f9)   
+https://github.com/Blatzar/Redited/releases/latest
 
 ## Desktop   
 ### Spotify 
