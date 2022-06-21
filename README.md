@@ -2,17 +2,17 @@
 A List of high quality mods that i recommend/trust   
 
 ## Android
-Discord - Aliucord - ![Aliucord Version](https://img.shields.io/github/v/tag/Aliucord/Aliucord?label=Latest&style=flat-square&color=bd93f9)   
+<img src="https://avatars.githubusercontent.com/u/78881422" width="20">Discord - Aliucord - ![Aliucord Version](https://img.shields.io/github/v/tag/Aliucord/Aliucord?label=Latest&style=flat-square&color=bd93f9)   
 https://github.com/Aliucord/Aliucord/releases/latest   
-Spotify - xManager - ![xManager Version](https://img.shields.io/github/v/tag/xManager-v2/xManager-Spotify?label=Latest&style=flat-square&color=bd93f9)   
+<img src="https://xmanagerapp.com/favicon.ico?" width="20">Spotify - xManager - ![xManager Version](https://img.shields.io/github/v/tag/xManager-v2/xManager-Spotify?label=Latest&style=flat-square&color=bd93f9)   
 https://github.com/xManager-v2/xManager-Spotify/releases/latest   
-Youtube - Vanced (until ReVanced is released)   
+<img src="https://vancedapp.com/favicon.ico" width="20">Youtube - Vanced (until ReVanced is released)   
 https://web.archive.org/web/20220304220206/https://vancedapp.com/   
-Instagram - Instander - ![Instander Version (only auto updates on site)](https://github.com/WmeLuna/mods/blob/main/_layouts/insta.png?raw=true)   
+<img src="https://thedise.me/src/images/pink/icon_original.png" width="20">Instagram - Instander - ![Instander Version (only auto updates on site)](https://github.com/WmeLuna/mods/blob/main/_layouts/insta.png?raw=true)   
 https://thedise.me/instander/   
-Snapchat - SnapMod (root needed) - ![SnapMod Version](https://img.shields.io/github/v/tag/rodit/SnapMod?label=Latest&style=flat-square&color=bd93f9)   
+<img src="https://www.snapchat.com/images/favicon.png" width="20">Snapchat - SnapMod (root needed) - ![SnapMod Version](https://img.shields.io/github/v/tag/rodit/SnapMod?label=Latest&style=flat-square&color=bd93f9)   
 https://github.com/rodit/SnapMod/releases/latest   
-Reddit - Redited (in early days) - ![Redited Version](https://img.shields.io/github/v/tag/Blatzar/Redited?label=Latest&style=flat-square&color=bd93f9)   
+<img src="https://www.redditstatic.com/desktop2x/img/favicon/android-icon-36x36.png" width="20">Reddit - Redited (in early days) - ![Redited Version](https://img.shields.io/github/v/tag/Blatzar/Redited?label=Latest&style=flat-square&color=bd93f9)   
 https://github.com/Blatzar/Redited/releases/latest
 
 ## Desktop   
