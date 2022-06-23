@@ -1,5 +1,6 @@
 # Mods
 A List of high quality mods that i recommend/trust   
+<sup><sub>Note: While mods from telegram are convenient can be very sketchy... check if they are safe before installing, I do that before I add it here</sub></sup>   
 
 ## Android
 <img src="https://avatars.githubusercontent.com/u/78881422" width="20">Discord - Aliucord - ![Aliucord Version](https://img.shields.io/github/v/tag/Aliucord/Aliucord?label=Latest&style=flat-square&color=bd93f9)   
@@ -10,8 +11,10 @@ https://github.com/xManager-v2/xManager-Spotify/releases/latest
 https://web.archive.org/web/20220313175907/https://github.com/YTVanced/VancedManager/releases/latest   
 <img src="https://thedise.me/src/images/pink/icon_original.png" width="20">Instagram - Instander - ![Instander Version (only auto updates on site)](https://github.com/WmeLuna/mods/blob/main/_layouts/insta.png?raw=true)   
 https://thedise.me/instander/   
-<img src="https://www.snapchat.com/images/favicon.png" width="20">Snapchat - SnapMod (root needed) - ![SnapMod Version](https://img.shields.io/github/v/tag/rodit/SnapMod?label=Latest&style=flat-square&color=bd93f9)   
+<img src="https://www.snapchat.com/images/favicon.png" width="20">Snapchat - SnapMod (root needed, feature rich) - ![SnapMod Version](https://img.shields.io/github/v/tag/rodit/SnapMod?label=Latest&style=flat-square&color=bd93f9)   
 https://github.com/rodit/SnapMod/releases/latest   
+<img src="https://www.snapchat.com/images/favicon.png" width="20">Snapchat - SnapCrow (root not needed, only feature is darkmode)   
+https://t.me/SnapCrow   
 <img src="https://www.redditstatic.com/desktop2x/img/favicon/android-icon-36x36.png" width="20">Reddit - Redited (in early days) - ![Redited Version](https://img.shields.io/github/v/tag/Blatzar/Redited?label=Latest&style=flat-square&color=bd93f9)   
 https://github.com/Blatzar/Redited/releases/latest
 
