@@ -5,6 +5,8 @@ A List of high quality mods that i recommend/trust
 ## Android
 <img src="https://avatars.githubusercontent.com/u/78881422" width="20">Discord - Aliucord - ![Aliucord Version](https://img.shields.io/github/v/tag/Aliucord/Aliucord?label=Latest&style=flat-square&color=bd93f9)   
 https://github.com/Aliucord/Aliucord/releases/latest   
+<img src="https://lh3.googleusercontent.com/2ql878JGVcF04tskZt6rUGh9YhWbMkAmlpRtPKqn_3dhn5hY9KL2aILSy3aq6uvHM_k=s0?imgmax=0" width="20">Twitter - Harpy   
+https://play.google.com/apps/testing/com.robertodoering.harpy.free   
 <img src="https://xmanagerapp.com/favicon.ico?" width="20">Spotify - xManager - ![xManager Version](https://img.shields.io/github/v/tag/xManager-v2/xManager-Spotify?label=Latest&style=flat-square&color=bd93f9)   
 https://github.com/xManager-v2/xManager-Spotify/releases/latest   
 <img src="https://vancedapp.com/favicon.ico" width="20">Youtube - Vanced (until ReVanced is released)   
