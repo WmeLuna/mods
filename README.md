@@ -20,8 +20,8 @@ https://github.com/rodit/SnapMod/releases/latest
 https://t.me/SnapCrow   
 <img src="https://www.redditstatic.com/desktop2x/img/favicon/android-icon-36x36.png" width="20">Reddit - Redited (in early days) - ![Redited Version](https://img.shields.io/github/v/tag/Blatzar/Redited?label=Latest&style=flat-square&color=bd93f9)   
 https://github.com/Blatzar/Redited/releases/latest   
-<img src="https://cdn.discordapp.com/icons/806940855603560509/ef475832e8f44048337f6dae275da0e4.png?size=4096" width="20">Twitch - TwitchMod (No longer in development, [OrangeTV](https://discord.gg/9dUuQtZH2c) is in the works to replace it)   
-https://twitchmod.aeong.one/Beta/3.3/3398.apk
+<img src="https://cdn.discordapp.com/icons/806940855603560509/ef475832e8f44048337f6dae275da0e4.png?size=4096" width="20">Twitch - TwitchMod (No longer in development, [PurpleTV](https://discord.gg/9dUuQtZH2c) is in the works to replace it)   
+https://twitchmod.aeong.one/Beta/3.3/3400.apk
 
 ## Desktop   
 ### Spotify 
